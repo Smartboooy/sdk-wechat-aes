@@ -1,4 +1,4 @@
-package com.github.sdk.wechat.aes;
+package com.github.Smartboooy.sdk.wechat.aes;
 
 import java.nio.charset.Charset;
 import java.util.Arrays;
