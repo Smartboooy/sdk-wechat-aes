@@ -16,10 +16,10 @@
 
 
     <groupId>com.github.ongz1992</groupId>
-    <artifactId>sdk-wechat-aes</artifactId>
+    <artifactId>wechat-aes</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-    <name>sdk-wechat-aes</name>
+    <name>SDK_Wechat_AES</name>
     <description>WeChat Software Development Kit</description>
     <inceptionYear>2017</inceptionYear>
     <url />
@@ -34,7 +34,7 @@
 
     <issueManagement>
         <system>github</system>
-        <url>https://github.com/ongz1992/sdk-wechat-aes/issues</url>
+        <url>https://github.com/ongz1992/SDK_Wechat_AES/issues</url>
     </issueManagement>
 
     <developers>
@@ -48,9 +48,9 @@
     </developers>
 
     <scm>
-        <url>git@github.com:ongz1992/sdk-wechat-aes.git</url>
-        <connection>scm:git:git@github.com:ongz1992/sdk-wechat-aes.git</connection>
-        <developerConnection>scm:git:git@github.com:ongz1992/sdk-wechat-aes.git</developerConnection>
+        <url>git@github.com:ongz1992/SDK_Wechat_AES.git</url>
+        <connection>scm:git:git@github.com:ongz1992/SDK_Wechat_AES.git</connection>
+        <developerConnection>scm:git:git@github.com:ongz1992/SDK_Wechat_AES.git</developerConnection>
         <tag />
     </scm>
 
