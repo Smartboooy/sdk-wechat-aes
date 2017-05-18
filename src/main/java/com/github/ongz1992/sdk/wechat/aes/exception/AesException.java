@@ -1,4 +1,4 @@
-package com.github.Smartboooy.sdk.wechat.aes.exception;
+package com.github.ongz1992.sdk.wechat.aes.exception;
 
 /**
  * Created by 刘春龙 on 2017/4/6.

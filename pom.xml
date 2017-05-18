@@ -15,7 +15,7 @@
     </properties>
 
 
-    <groupId>com.github.Smartboooy</groupId>
+    <groupId>com.github.ongz1992</groupId>
     <artifactId>sdk-wechat-aes</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
@@ -34,12 +34,12 @@
 
     <issueManagement>
         <system>github</system>
-        <url>https://github.com/Smartboooy/sdk-wechat-aes/issues</url>
+        <url>https://github.com/ongz1992/sdk-wechat-aes/issues</url>
     </issueManagement>
 
     <developers>
         <developer>
-            <name>Smartboooy</name>
+            <name>ongz1992</name>
             <email>631521383@qq.com</email>
             <roles>
                 <role>Project Manager</role>
@@ -48,9 +48,9 @@
     </developers>
 
     <scm>
-        <url>git@github.com:Smartboooy/sdk-wechat-aes.git</url>
-        <connection>scm:git:git@github.com:Smartboooy/sdk-wechat-aes.git</connection>
-        <developerConnection>scm:git:git@github.com:Smartboooy/sdk-wechat-aes.git</developerConnection>
+        <url>git@github.com:ongz1992/sdk-wechat-aes.git</url>
+        <connection>scm:git:git@github.com:ongz1992/sdk-wechat-aes.git</connection>
+        <developerConnection>scm:git:git@github.com:ongz1992/sdk-wechat-aes.git</developerConnection>
         <tag />
     </scm>
 

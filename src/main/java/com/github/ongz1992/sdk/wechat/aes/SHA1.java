@@ -1,6 +1,6 @@
-package com.github.Smartboooy.sdk.wechat.aes;
+package com.github.ongz1992.sdk.wechat.aes;
 
-import com.github.Smartboooy.sdk.wechat.aes.exception.AesException;
+import com.github.ongz1992.sdk.wechat.aes.exception.AesException;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

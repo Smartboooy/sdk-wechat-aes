@@ -1,4 +1,4 @@
-package com.github.Smartboooy.sdk.wechat.aes;
+package com.github.ongz1992.sdk.wechat.aes;
 
 import java.util.ArrayList;
 
