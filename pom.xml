@@ -15,7 +15,7 @@
     </properties>
 
 
-    <groupId>com.github.ongz1992</groupId>
+    <groupId>com.github.itTalks</groupId>
     <artifactId>wechat-aes</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
@@ -34,12 +34,12 @@
 
     <issueManagement>
         <system>github</system>
-        <url>https://github.com/ongz1992/SDK_Wechat_AES/issues</url>
+        <url>https://github.com/itTalks/SDK_Wechat_AES/issues</url>
     </issueManagement>
 
     <developers>
         <developer>
-            <name>ongz1992</name>
+            <name>itTalks</name>
             <email>631521383@qq.com</email>
             <roles>
                 <role>Project Manager</role>
@@ -48,9 +48,9 @@
     </developers>
 
     <scm>
-        <url>git@github.com:ongz1992/SDK_Wechat_AES.git</url>
-        <connection>scm:git:git@github.com:ongz1992/SDK_Wechat_AES.git</connection>
-        <developerConnection>scm:git:git@github.com:ongz1992/SDK_Wechat_AES.git</developerConnection>
+        <url>git@github.com:itTalks/SDK_Wechat_AES.git</url>
+        <connection>scm:git:git@github.com:itTalks/SDK_Wechat_AES.git</connection>
+        <developerConnection>scm:git:git@github.com:itTalks/SDK_Wechat_AES.git</developerConnection>
         <tag />
     </scm>
 

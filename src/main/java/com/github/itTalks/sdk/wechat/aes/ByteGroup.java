@@ -1,4 +1,4 @@
-package com.github.ongz1992.sdk.wechat.aes;
+package com.github.itTalks.sdk.wechat.aes;
 
 import java.util.ArrayList;
 

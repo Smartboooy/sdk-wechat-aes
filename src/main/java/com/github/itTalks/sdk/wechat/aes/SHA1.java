@@ -1,6 +1,6 @@
-package com.github.ongz1992.sdk.wechat.aes;
+package com.github.itTalks.sdk.wechat.aes;
 
-import com.github.ongz1992.sdk.wechat.aes.exception.AesException;
+import com.github.itTalks.sdk.wechat.aes.exception.AesException;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

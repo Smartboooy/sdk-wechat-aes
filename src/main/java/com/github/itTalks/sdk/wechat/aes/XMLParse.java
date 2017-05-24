@@ -1,6 +1,6 @@
-package com.github.ongz1992.sdk.wechat.aes;
+package com.github.itTalks.sdk.wechat.aes;
 
-import com.github.ongz1992.sdk.wechat.aes.exception.AesException;
+import com.github.itTalks.sdk.wechat.aes.exception.AesException;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
