@@ -1,6 +1,6 @@
-package com.github.itTalks.sdk.wechat.aes;
+package com.github.fnpac.sdk.wechat.aes;
 
-import com.github.itTalks.sdk.wechat.aes.exception.AesException;
+import com.github.fnpac.sdk.wechat.aes.exception.AesException;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;

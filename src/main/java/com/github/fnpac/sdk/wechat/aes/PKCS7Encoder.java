@@ -1,4 +1,4 @@
-package com.github.itTalks.sdk.wechat.aes;
+package com.github.fnpac.sdk.wechat.aes;
 
 import java.nio.charset.Charset;
 import java.util.Arrays;

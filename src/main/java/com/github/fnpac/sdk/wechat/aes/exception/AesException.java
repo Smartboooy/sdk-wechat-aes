@@ -1,4 +1,4 @@
-package com.github.itTalks.sdk.wechat.aes.exception;
+package com.github.fnpac.sdk.wechat.aes.exception;
 
 /**
  * Created by 刘春龙 on 2017/4/6.

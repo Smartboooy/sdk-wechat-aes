@@ -15,11 +15,11 @@
     </properties>
 
 
-    <groupId>com.github.itTalks</groupId>
-    <artifactId>wechat-aes</artifactId>
+    <groupId>com.github.fnpac</groupId>
+    <artifactId>sdk_wechat_aes</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-    <name>SDK_Wechat_AES</name>
+    <name>sdk_wechat_aes</name>
     <description>WeChat Software Development Kit</description>
     <inceptionYear>2017</inceptionYear>
     <url />
@@ -34,12 +34,12 @@
 
     <issueManagement>
         <system>github</system>
-        <url>https://github.com/itTalks/SDK_Wechat_AES/issues</url>
+        <url>https://github.com/fnpac/sdk_wechat_aes/issues</url>
     </issueManagement>
 
     <developers>
         <developer>
-            <name>itTalks</name>
+            <name>fnpac</name>
             <email>631521383@qq.com</email>
             <roles>
                 <role>Project Manager</role>
@@ -48,9 +48,9 @@
     </developers>
 
     <scm>
-        <url>git@github.com:itTalks/SDK_Wechat_AES.git</url>
-        <connection>scm:git:git@github.com:itTalks/SDK_Wechat_AES.git</connection>
-        <developerConnection>scm:git:git@github.com:itTalks/SDK_Wechat_AES.git</developerConnection>
+        <url>git@github.com:fnpac/sdk_wechat_aes.git</url>
+        <connection>scm:git:git@github.com:fnpac/sdk_wechat_aes.git</connection>
+        <developerConnection>scm:git:git@github.com:fnpac/sdk_wechat_aes.git</developerConnection>
         <tag />
     </scm>
 

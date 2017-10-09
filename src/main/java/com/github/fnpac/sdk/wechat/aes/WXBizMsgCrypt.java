@@ -1,6 +1,6 @@
-package com.github.itTalks.sdk.wechat.aes;
+package com.github.fnpac.sdk.wechat.aes;
 
-import com.github.itTalks.sdk.wechat.aes.exception.AesException;
+import com.github.fnpac.sdk.wechat.aes.exception.AesException;
 import org.apache.commons.codec.binary.Base64;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
